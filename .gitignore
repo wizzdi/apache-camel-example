@@ -1,0 +1,6 @@
+/apache-camel-runner/application.pid
+/apache-camel-runner/target/
+/apache-camel-runner/.idea/
+/.idea/
+/apache-camel-service/target/
+/apache-camel-service/.idea/
